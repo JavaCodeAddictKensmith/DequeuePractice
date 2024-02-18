@@ -1,0 +1,15 @@
+/Users/mac/Documents/TestQueue/TestQueueOn/bin/Debug/net7.0/TestQueueOn
+/Users/mac/Documents/TestQueue/TestQueueOn/bin/Debug/net7.0/TestQueueOn.deps.json
+/Users/mac/Documents/TestQueue/TestQueueOn/bin/Debug/net7.0/TestQueueOn.runtimeconfig.json
+/Users/mac/Documents/TestQueue/TestQueueOn/bin/Debug/net7.0/TestQueueOn.dll
+/Users/mac/Documents/TestQueue/TestQueueOn/bin/Debug/net7.0/TestQueueOn.pdb
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.csproj.AssemblyReference.cache
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.AssemblyInfoInputs.cache
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.AssemblyInfo.cs
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.dll
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/refint/TestQueueOn.dll
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.pdb
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/TestQueueOn.genruntimeconfig.cache
+/Users/mac/Documents/TestQueue/TestQueueOn/obj/Debug/net7.0/ref/TestQueueOn.dll
